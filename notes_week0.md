@@ -22,3 +22,17 @@
   * Capital letters are 32 digits away from their lower form; So we just change one column while represation the letters in bits. 256 symbols
   * Unicode: more symbols and emojis
   * RGB: color
+* **Videos and Sounds**
+  * Pictures/Frames per second
+### Algorithms
+ * Setp by setp instructucions for solving some problem
+ * time to solve | size of the problem _
+ * log2 n = number of setps to solve the problem
+### Code
+ * Language that the computer understands the algorithm
+### Pseudocode
+ * Functions: actions
+ * Conditional
+ * Bulian Expression: questions with yes or no answer/TRUE or FALSE
+ * Loop: cycle behavior
+## Scratch
